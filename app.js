@@ -1,1 +1,16 @@
 var provided = 'Hello World!';
+console.log(provided.substring(0,1).length);
+var provided = 'Hello World!';
+console.log(Number(provided));
+var provided = 'Hello World!';
+console.log(provided.substring(0,5).split(''));
+var provided = 'Hello World!';
+console.log(typeof provided);
+var provided = 'Hello World!';
+console.log(provided.slice(-9).length);
+var provided = 'Hello World!';
+console.log(provided.charAt(1));
+var provided = 'Hello World!';
+console.log(provided.toUpperCase());
+var provided = 'Hello World!';
+console.log(provided.replace('!','?'));
