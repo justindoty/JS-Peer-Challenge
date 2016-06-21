@@ -14,3 +14,14 @@ var provided = 'Hello World!';
 console.log(provided.toUpperCase());
 var provided = 'Hello World!';
 console.log(provided.replace('!','?'));
+
+//HARD
+
+var provided = 'Hello World!';
+console.log(provided.substring(0 , 5).replace('H', '\''));
+var provided = 'Hello World!';
+console.log(provided.split('').reverse().join(''));
+var provided = 'Hello World!';
+console.log(provided.substring(0,1).length.toString() + provided.substring(0,1).length.toString() + provided.substring(0,1).length.toString()+ provided.substring(0,1).length.toString());
+var provided = 'Hello World!';
+console.log(provided.split(" "));
